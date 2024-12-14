@@ -1,0 +1,16 @@
+//1752. Check if array is sorted and rotated
+public class Check_array_is_sorted_and_rotated {
+    public boolean check(int[] nums) {
+        int k=0;
+        for(int i=0; i<nums.length; i++){
+            if(nums[i]>nums[(i+1)%nums.length]){
+                k++;
+            }
+
+            if(k>1){
+                return false;
+            }
+        }
+        return true;
+    }
+}
