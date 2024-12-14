@@ -17,8 +17,8 @@ P.S.: This challenge is created by [Arsh Goyal](https://www.youtube.com/@ArshGoy
 ---
 
 <details>
-  <summary>## Day 1</summary>
-  ** Problems Solved Today: **
+  <summary>Day 1</summary>
+  **Problems Solved Today:**
   
   - [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) {1, 2}
   - [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) {1}
