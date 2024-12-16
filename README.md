@@ -38,9 +38,22 @@ P.S.: This challenge is created by [Arsh Goyal](https://www.youtube.com/@ArshGoy
   - [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) {1}
   - [Duplicate Character in String](https://www.geeksforgeeks.org/print-all-the-duplicates-in-the-input-string/) {1}
   - [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/) {1}
+<details>
 
 --- 
 
+### Day 3
+<details>
+  <summary>Problems Solved Today:</summary>
+  - [Non-Decreasing Array](https://www.naukri.com/code360/problems/non-decreasing-array_699920?utm_source=youtube&utm_medium=affiliate&utm_campaign=parikh_youtube) {3}
+  - [Equilibrium Index](https://www.naukri.com/code360/problems/equilibrium-index_893014) {3}
+  - [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) {1}
+  - [Sort Colors](https://leetcode.com/problems/sort-colors/) {1}
+  - [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/) {1}
+  - [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/) {1}
+
+<details>
+---
 ### Connect With Me!
 Let’s collaborate or connect! Reach out to me at valiyaparth1407@gmail.com or connect with me on [LinkedIn](www.linkedin.com/in/parthvaliya).
 
