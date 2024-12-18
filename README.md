@@ -65,8 +65,19 @@ P.S.: This challenge is created by [Arsh Goyal](https://www.youtube.com/@ArshGoy
   - [Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/description/) {1}
   - [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/description/) {1}
   - [First Missing Positive](https://www.naukri.com/code360/problems/first-missing-positive_699946) {3}
-  
+</details>  
+
 ---
+
+### Day 5
+<details>
+  <summary>Problems Solved Today:</summary>
+
+  - [Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) {1}
+  - [Product Array Puzzle](https://geeksforgeeks.org/problems/product-array-puzzle4525/1) {1}
+</details>
+
+--- 
 
 ### Connect With Me!
 Let’s collaborate or connect! Reach out to me at valiyaparth1407@gmail.com or connect with me on [LinkedIn](www.linkedin.com/in/parthvaliya).
