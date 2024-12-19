@@ -79,6 +79,19 @@ P.S.: This challenge is created by [Arsh Goyal](https://www.youtube.com/@ArshGoy
 
 --- 
 
+### Day 6
+<details>
+  <summary>Problems Solved Today:</summary>
+
+  - [Chocolate Distribution](https://www.geeksforgeeks.org/problems/chocolate-distribution-problem3825/1) {1}
+  - [Jump Game](https://leetcode.com/problems/jump-game/) {1}
+  - [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/description/) {1}
+  - [Ceiling in a sorted array](https://www.geeksforgeeks.org/ceiling-in-a-sorted-array/) {1}
+
+</details>
+
+---
+
 ### Connect With Me!
 Let’s collaborate or connect! Reach out to me at valiyaparth1407@gmail.com or connect with me on [LinkedIn](www.linkedin.com/in/parthvaliya).
 
