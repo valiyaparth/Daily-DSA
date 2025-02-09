@@ -1,18 +1,14 @@
-## 45 days DSA Challange
+## Daily DSA
 
 ---
 
 ### Overview
-I will be solving DSA Problems for the next 45 days.<br>
-I am starting this challange on 14th December 2024 (Saturday).<br>
-In this challange i am going to solve multiple DSA Sheets like 
+Here I will be documenting my Daily DSA journey.<br>
+I will try to be consistent and try to solve DSA problems on a daily basis.<br>
+I am going to solve multiple DSA Sheets like 
 1. [Arsh DSA Sheet](https://www.proelevate.in/dsa-practice/arsh-dsa-sheet) ,
 2. [Strivers A2Z DSA Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2) ,
 3. [DSA-251](https://www.propeers.in/roadmaps/657d7e45e3609127743ec629).
-
----
-
-P.S.: This challenge is created by [Arsh Goyal](https://www.youtube.com/@ArshGoyal), so it would be unfair to not give credit to him! :)
 
 ---
 
