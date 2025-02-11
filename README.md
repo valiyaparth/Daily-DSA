@@ -124,6 +124,17 @@ I am going to solve multiple DSA Sheets like
 
 ---
 
+### Day 10
+<details>
+  <summary>Problems Solved Today:</summary>
+
+  - [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/)
+  - [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)
+  
+</details>
+
+---
+
 ### Connect With Me!
 Let’s collaborate or connect! Reach out to me at valiyaparth1407@gmail.com or connect with me on [LinkedIn](www.linkedin.com/in/parthvaliya).
 
