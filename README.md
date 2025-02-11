@@ -96,7 +96,7 @@ I am going to solve multiple DSA Sheets like
   - [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/)
   - [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)
 
-<details>
+</details>
 
 --- 
 
@@ -108,7 +108,20 @@ I am going to solve multiple DSA Sheets like
   - [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/description/)
   - [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)
 
+</details>
+
+---
+
+### Day 9
 <details>
+  <summary>Problems Solved Today:</summary>
+
+  - [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)
+  - [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)
+  - [Group Anagram](https://leetcode.com/problems/group-anagrams/description/)
+
+</details>
+
 ---
 
 ### Connect With Me!
