@@ -88,6 +88,29 @@ I am going to solve multiple DSA Sheets like
 
 ---
 
+### Day 7
+<details>
+  <summary>Problems Solved Today:</summary>
+
+  - [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/)
+  - [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/)
+  - [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)
+
+<details>
+
+--- 
+
+### Day 8
+<details>
+  <summary>Problems Solved Today:</summary>
+
+  - [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/description/)
+  - [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/description/)
+  - [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)
+
+<details>
+---
+
 ### Connect With Me!
 Let’s collaborate or connect! Reach out to me at valiyaparth1407@gmail.com or connect with me on [LinkedIn](www.linkedin.com/in/parthvaliya).
 
